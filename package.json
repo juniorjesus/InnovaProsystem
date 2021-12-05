@@ -1,7 +1,7 @@
 {
   "name": "maestroapp",
   "version": "0.1.0",
-  "homepage": "https://juniorjesus.github.io/SistemaMaestro/",
+  "homepage": "https://juniorjesus.github.io/InnovaProsystem/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
