@@ -1,7 +1,7 @@
 {
   "name": "maestroapp",
   "version": "0.1.0",
-  "homepage": "https://juniorjesus.github.io/InnovaProsystem/",
+  "homepage": "https://juniorjesus.github.io/InnovaProsystem",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -45,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
