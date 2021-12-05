@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/InnovaProsystem/static/js/main.ef2661ff.chunk.js",
+    "main.js.map": "/InnovaProsystem/static/js/main.ef2661ff.chunk.js.map",
+    "runtime-main.js": "/InnovaProsystem/static/js/runtime-main.df5e7e8b.js",
+    "runtime-main.js.map": "/InnovaProsystem/static/js/runtime-main.df5e7e8b.js.map",
+    "static/js/2.36923121.chunk.js": "/InnovaProsystem/static/js/2.36923121.chunk.js",
+    "static/js/2.36923121.chunk.js.map": "/InnovaProsystem/static/js/2.36923121.chunk.js.map",
+    "index.html": "/InnovaProsystem/index.html",
+    "static/js/2.36923121.chunk.js.LICENSE.txt": "/InnovaProsystem/static/js/2.36923121.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df5e7e8b.js",
+    "static/js/2.36923121.chunk.js",
+    "static/js/main.ef2661ff.chunk.js"
+  ]
+}
